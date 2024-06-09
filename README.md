@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 
 # The Wild Oasis Admin Application
 
-This is a React-based application for hotel bookings admin management. Built with React Query ans Supabase.
+This is a React-based application for hotel admin management. Built with React Query and Supabase.
